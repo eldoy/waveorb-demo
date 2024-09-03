@@ -1,4 +1,4 @@
 {
-  "domains": "example.com",
-  "proxy": "http://localhost:5000"
+  "domains": "demo.waveorb.com",
+  "proxy": "http://localhost:32777"
 }

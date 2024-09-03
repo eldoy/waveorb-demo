@@ -1,4 +1,5 @@
 {
   "domains": "demo.waveorb.com",
-  "proxy": "http://localhost:32777"
+  "proxy": "http://localhost:32777",
+  "ssr": true
 }
